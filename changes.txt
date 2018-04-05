@@ -1,0 +1,42 @@
+commit 91a83724f42dedc3768a83dcca9de8cf6f028a09
+Author: Jordanpw <jzwilson@ucdavis.edu>
+Date:   Thu Apr 5 15:10:21 2018 -0700
+
+    Added my weekend plans
+
+commit 8a1ebbc111a8837ad5ce70828b14da83d830ea80
+Author: chrispchen <christopherphillipchen@gmail.com>
+Date:   Thu Apr 5 15:08:32 2018 -0700
+
+    plz plz work
+
+commit 31289ffb299da5d35ad2eb9a8f01f8a121654ea3
+Author: chrispchen <christopherphillipchen@gmail.com>
+Date:   Thu Apr 5 15:05:52 2018 -0700
+
+    new files
+
+commit fd3eb4e17756f5d620d762ce6fded3f28408a7de
+Merge: 811c7b7 d913b3b
+Author: chrispchen <christopherphillipchen@gmail.com>
+Date:   Thu Apr 5 14:58:27 2018 -0700
+
+    Merge branch 'master' of https://github.com/chrispchen/gitlab2
+
+commit 811c7b79349439601ec9e24d49913c2a32988733
+Author: chrispchen <christopherphillipchen@gmail.com>
+Date:   Thu Apr 5 14:52:57 2018 -0700
+
+    hope
+
+commit d913b3bb4826d238d9659c3458701e9fdd0e88a5
+Author: Jordan.Wilson <jzwilson@ucdavis.edu>
+Date:   Thu Apr 5 14:51:30 2018 -0700
+
+    MyPlansAdd.txt
+
+commit 966131ec358a2174db28e742c6e04e46b3c13845
+Author: chrispchen <38116566+chrispchen@users.noreply.github.com>
+Date:   Thu Apr 5 14:32:51 2018 -0700
+
+    Initial commit
